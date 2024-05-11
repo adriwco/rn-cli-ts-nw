@@ -1,3 +1,5 @@
+Estrutura básica > uso pessoal > lembrete
+
 npx react-native init AwesomeProject --template react-native-template-typescript
 cd AwesomeProject
 
